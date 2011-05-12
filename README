@@ -1,0 +1,7 @@
+Simple SPA for readonly view of a TidldySpace.
+
+See http://cdent.tiddlyspace.com/show to see it in action.
+
+It's nothing special, just a proof of concept on making a readonly
+frontpage on a space, without TiddlyWiki, using the DefaultTiddlers and
+SiteTitle to get things rolling.
